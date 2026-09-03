@@ -1,4 +1,18 @@
 ![[Pasted image 20260901142958.png]]
+
+
+| Nhóm mô hình            | Đảo chiều Tăng (Bullish Reversal)                                                                                                     | Đảo chiều Giảm (Bearish Reversal)                                                                                               | Đặc điểm đối ứng chính                                                                                                                             |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Doji đặc thù            | Dragonfly Doji (Chuồn chuồn)• Đáy xu hướng giảm• Bóng dưới rất dài, không bóng trên<br>-> **Tín hiệu mạnh**                           | Gravestone Doji (Bia mộ)• Đỉnh xu hướng tăng• Bóng trên rất dài, không bóng dưới<br>-> **Tín hiệu yếu, quan sát thêm**          | Cùng có thân nến siêu mỏng; vị trí đuôi nến phản ánh phe đối lập vừa từ chối vùng giá cực trị.                                                     |
+| Bao trùm (2 nến)        | Bullish Engulfing (Nhấn chìm tăng)• Nến đỏ trước, nến xanh dài sau• Thân nến xanh trùm trọn thân nến đỏ<br>-> **Tín hiệu mạnh**       | Bearish Engulfing (Nhấn chìm giảm)• Nến xanh trước, nến đỏ dài sau• Thân nến đỏ trùm trọn thân nến xanh<br>-> **Tín hiệu mạnh** | Nến thứ hai áp đảo hoàn toàn biên độ dao động của phiên trước đó, xác nhận phe mới kiểm soát hoàn toàn.                                            |
+| Búa / Bóng dưới dài     | Hammer (Búa)• Đáy xu hướng giảm• Thân nhỏ ở trên, bóng dưới dài gấp 2–3 lần<br>-> **Kết hợp quan sát khối lượng, KL mua lớn -> mạnh** | Hanging Man (Người treo cổ)• Đỉnh xu hướng tăng• Thân nhỏ ở trên, bóng dưới dài gấp 2–3 lần                                     | Hình dáng giống hệt nhau (thân trên, đuôi dưới). Khác biệt quyết định nằm ở vị trí xuất hiện (đáy vs đỉnh).                                        |
+| Bắn sao / Bóng trên dài | Inverted Hammer (Búa ngược)• Đáy xu hướng giảm• Thân nhỏ ở dưới, bóng trên dài gấp 2–3 lần                                            | Shooting Star (Sao băng)• Đỉnh xu hướng tăng• Thân nhỏ ở dưới, bóng trên dài gấp 2–3 lần                                        | Hình dáng giống hệt nhau (thân dưới, râu trên). Inverted Hammer báo hiệu lực mua thăm dò tại đáy; Shooting Star báo hiệu lực xả cực mạnh tại đỉnh. |
+| Cụm 3 nến ngôi sao      | Morning Star (Sao Mai)• Nến 1 giảm mạnh → Nến 2 thân nhỏ (Doji/Hammer) → Nến 3 tăng mạnh                                              | Evening Star (Sao Hôm)• Nến 1 tăng mạnh → Nến 2 thân nhỏ (Doji/Hammer) → Nến 3 giảm mạnh                                        | Nến giữa thể hiện sự giằng co/mất đà của xu hướng cũ; nến thứ 3 là nến kích hoạt và xác nhận đổi chiều.                                            |
+| Mô hình Nhíp (2 nến)    | Tweezer Bottom (Đáy nhíp)• Xuất hiện ở đáy• 2 nến chạm cùng một mức giá thấp nhất (Low bằng nhau)                                     | Tweezer Top (Đỉnh nhíp)• Xuất hiện ở đỉnh• 2 nến chạm cùng một mức giá cao nhất (High bằng nhau)                                | Kiểm định 2 lần cùng một mốc giá nhưng không thể phá vỡ (tạo hỗ trợ hoặc kháng cự ngắn hạn tức thì).                                               |
+| Cắt xuyên / Thâm nhập   | Piercing Pattern (Đường nhọn)• Xuất hiện ở đáy• Nến xanh mở gap giảm nhưng đóng cửa trên 50% thân nến đỏ trước                        | Dark Cloud Cover (Mây đen bao phủ)*• Xuất hiện ở đỉnh• Nến đỏ mở gap tăng nhưng đóng cửa dưới 50% thân nến xanh trước           | Cặp đối ứng kinh điển về tỷ lệ thâm nhập thân nến (vượt quá 50% biên độ thân phiên liền trước).                                                    |
+
+---
+
 ## Nến Doji
 >Miêu tả: *Nến Doji có **thân nến nhỏ**, gần như không có, **bóng nến dài gấp nhiều lần thân nến**.*
 
@@ -24,7 +38,7 @@ Phân tích: Dragonfly Doji cũng là nến báo hiệu thị trường đảo 
 
 ![long legged doji phân tích nến nhật candlestick charting](https://pinetree.vn/wp-content/uploads/2021/06/long-legged-doji-s%E1%BB%ADa.png)
 
-Doji “chân dài” có thân nến mảnh và 2 bóng nến trên và dưới rất dài. Long legged doji cho thấy thị trường đang giằng co mạnh nhưng chưa quyết định được xu hướng, cần phải theo dõi thêm các nến sau.
+Doji “chân dài” có thân nến mảnh và 2 bóng nến trên và dưới rất dài. Long legged doji cho thấy thị trường đang giằng co mạnh nhưng **chưa quyết định được xu hướng**, cần phải theo dõi thêm các nến sau.
 
 ### **4. Bullish Engulfing**
 > Miêu tả: *Mô hình 2 nến, nến sau **bao trùm** lên nến trước, nến sau **mở cửa thấp hơn, đóng cửa cao hơn** nến trước* -> Nến xác định tính áp đảo của xu hướng tiếp theo (tăng hoặc giảm)
@@ -60,21 +74,25 @@ Sự xuất hiện của nến Hammer báo hiệu nhu cầu bán đã giảm. L�
 _Nến Hammer ở biểu đồ nến cổ phiếu ACB
 
 #### B. Hanging man
+![[Pasted image 20260902104018.png]]
+
 > Miêu tả: *Mô hình nến Hanging Man hay nến Người treo cổ có hình dạng tương tự như một cây búa và xuất hiện ở đỉnh xu hướng tăng. Nến có thân nhỏ, bóng dưới rất dài và bóng trên hầu như không có.*
 
-![[Pasted image 20260902104018.png]]
+![[Pasted image 20260902195309.png]]
 
 Khi nến Người treo cổ xuất hiện, nó cho nhà đầu tư thông tin về tâm lý thị trường cũng như cơ hội giao dịch. Đồng thời, mô hình này cũng dự báo về xu hướng thay đổi của giá trong tương lai gần.
 
-- Khi nến Người treo cổ xuất hiện ở đỉnh xu hướng tăng, nó báo hiệu về sự đảo chiều giảm của giá. Từ đây, nhà đầu tư có thể đóng lệnh mua để bảo toàn an toàn vốn. Hoặc có thể bán cổ phiếu ở đầu xu hướng giảm.
+- Khi nến Người treo cổ xuất hiện ở đỉnh xu hướng tăng, **nó báo hiệu về sự đảo chiều giảm của giá.** Từ đây, nhà đầu tư có thể đóng lệnh mua để bảo toàn an toàn vốn. Hoặc có thể bán cổ phiếu ở đầu xu hướng giảm.
 - Mô hình còn cho biết tâm lý của bên mua và bên bán trên thị trường. Tại đây, bên mua vẫn đang rất mạnh theo xu hướng tăng trước đó. Nhưng bên bán đã có động thái trở lại và khống chế giá xuống. Đây là dấu hiệu cho sự đảo chiều của giá.
-### **6. Inverted Hammer**
+### **6. Inverted Hammer và Shooting Star **
+![[Pasted image 20260902195730.png]]
+#### A. Inverted Hammer
 
-Nến Inverted Hammer hay Búa ngược là mô hình nến đơn có thân nến nhỏ. Khi đó, giá mở cửa, giá thấp nhất và giá đóng cửa gần bằng nhau. Ngoài ra, bóng nến trên có chiều dài ít nhất gấp đôi chiều dài của thân nến.
+>Miêu tả: *Nến Inverted Hammer hay Búa ngược là mô hình nến đơn có thân nến nhỏ. Khi đó, giá mở cửa, **giá thấp nhất và giá đóng cửa gần bằng nhau**. Ngoài ra, bóng nến trên có chiều dài ít nhất gấp đôi chiều dài của thân nến.*
 
 **Ví dụ**:
 
-![Nến Inverted Hammer ở biểu đồ nến cổ phiếu GAS](https://cdn.dnse.com.vn/dnse-news/2022/09/inverted-hammer.png)
+![[Pasted image 20260902194848.png]]
 
 _Nến Inverted Hammer ở biểu đồ nến cổ phiếu GAS_
 
@@ -82,7 +100,18 @@ Sau một xu hướng giảm giá, nến Inverted Hammer xuất hiện là dấu
 
 Bóng nến trên dài cho thấy nhu cầu của bên mua tăng lên, dự báo giá có xu hướng tăng. Nhưng để xác nhận sự đảo chiều, nhà đầu tư nên chờ xem nến tiếp theo có phải nến tăng mạnh hoặc có khoảng nhảy giá tăng hay không.
 
-### Morning Star
+#### B. Shooting Star
+>Miêu tả: *Nến Shooting Star là mẫu hình nến đơn có phần thân khá nhỏ và có phần đuôi hướng lên trên và thường dài hơn phần thân nhiều lần. Vì vậy, mẫu nến này còn được gọi là nến sao băng hay nến bắn sao.* -> **Cung cấp tín hiệu đảo chiều từ tăng sang giảm nhưng không quá mạnh**
+
+![[Pasted image 20260902194906.png]]
+
+Ý nghĩa quan trọng nhất của mô hình này là xác định xu hướng giá khi thị trưởng mở cửa hoặc đóng cửa: **bản chất của loại nến này là đảo chiều từ tăng sang giảm**. Khi thị trường mở của, lượng mua tăng đột biến, làm cho cung không đủ cầu, giá chắc chắn sẽ bị đẩy lên cao. Tuy nhiên, đến thời điểm thị trường gần đóng cửa, lượng mua giảm xuống, cung thừa cầu thiếu, giá giảm xuống một cách nhanh chóng. Đây chính là lý do giải thích vì sao phần đuôi nến nằm phía trên lại có độ dài như vậy. 
+
+Thứ hai là nắm bắt tâm lý thị trường. Bởi sự xuất hiện của Shooting Star chứng tỏ rằng bên mua đẩy giá lên cao, tuy nhiên bên bán lại cố gắng đẩy giá về ban đầu. Sự dao động lên xuống thất thường chứng khoán đã làm cho các trader mới rơi vào bẫy và khiến họ gặp nhiều stress. Vì vậy, bất luận là nhà đầu tư mới hay chuyên nghiệp đều phải tỉnh táo, để nhìn nhận đúng xu hướng chứng khoán.
+### **7. Morning Star vs Evening star**
+![[Pasted image 20260902195634.png]]
+
+#### A. Morning star
 
 Mô hình nến Morning Star hay nến sao Mai là một mô hình gồm 3 nến chính, thường xuất hiện ở cuối xu hướng giảm. Trong đó, cây thứ nhất là nến giảm tiếp nối xu hướng trước đó. Nến thứ hai có thân nhỏ hoặc gần như không có, có thể là nến Doji hoặc Hammer. Cuối cùng là một cây nến tăng.
 
@@ -93,6 +122,19 @@ Mô hình nến Morning Star hay nến sao Mai là một mô hình gồm 3 nến
 _Mẫu nến Morning Star_
 
 Cây nến đầu vẫn nằm trong xu hướng giảm cho thấy bên bán đang chiếm lợi thế khiến giá không ngừng giảm xuống. Nến thứ hai thể hiện sự lưỡng lự khi bên bán không muốn bán nữa còn bên mua lại bắt đầu gia nhập thị trường nhiều hơn. Cuối cùng, bên mua giành lại được lợi thế và bắt đầu đẩy giá lên. Đây là dấu hiệu cho một xu hướng đảo chiều mạnh mẽ. Tín hiệu sẽ rõ nét hơn nếu nến thứ hai nằm trong vùng hỗ trợ.
+
+#### B. Evening Star
+
+Mô hình nến Evening Star hay nến sao Hôm xuất hiện ở đỉnh xu hướng tăng với 3 nến chính. Trong đó, cây thứ nhất là nến tăng mạnh tiếp nối xu hướng tăng trước đó. Nến thứ hai có thể là nến Doji hoặc Hammer, với phần thân nhỏ hoặc gần như không có. Cuối cùng là một cây nến giảm.
+
+**Ví dụ**:
+
+![Nến Evening Star ở biểu đồ nến cổ phiếu SSI](https://cdn.dnse.com.vn/dnse-news/2022/09/evening-star.png)
+
+_Nến Evening Star ở biểu đồ nến cổ phiếu SSI_
+
+Nến đầu nằm trong xu hướng tăng, bên mua kiểm soát thị trường, giá đang theo đà tăng nhanh. Nến thứ hai thể hiện sự lưỡng lự của nhà đầu tư, là dấu hiệu của sự đảo chiều. Cuối cùng, lực bán gia tăng đã kéo mức giá xuống mạnh mẽ. Cây nến thứ ba có chiều dài càng lớn thì lực đảo chiều càng mạnh. 
+
 
 ### Tweezer Bottom
 
@@ -108,7 +150,7 @@ Nến Tweezer Bottom hình thành trong xu hướng giảm giá nên giá đóng
 
 ### Piercing Pattern
 
-Mô hình Piercing Pattern (nến Đường nhọn) gồm 2 nến ngược chiều xuất hiện ở đáy xu hướng giảm. Trong đó, nến đầu là nến giảm và có thân dài. Tiếp theo là một nến tăng có giá mở cửa thấp hơn giá đóng cửa của nến trước. Đồng thời mức giá đóng cửa của nến này phải nằm trên ít nhất một nửa nến trước.
+Mô hình Piercing Pattern (nến Đường nhọn) gồm 2 nến ngược chiều xuất hiện ở đáy xu hướng giảm. Trong đó, **nến đầu là nến giảm và có thân dài.** **Tiếp theo là một nến tăng** có giá mở cửa thấp hơn giá đóng cửa của nến trước. Đồng thời mức giá đóng cửa của nến này phải nằm trên ít nhất một nửa nến trước.
 
 **Ví dụ**:
 
@@ -169,18 +211,6 @@ Mô hình này có hình dáng tương đồng với mô hình nến Inverted Ha
 _Mẫu nến Shooting Star_
 
 Cần lưu ý nến Shooting Star không cho dấu hiệu đảo chiều ngay lập tức mà chỉ báo hiệu tiềm năng của sự thay đổi. Để xác nhận sự đảo chiều cần kết hợp với khối lượng giao dịch tại nến đó. Trong xu hướng tăng giá, một cây Shooting Star có khối lượng giao dịch dưới mức trung bình có thể chỉ là báo hiệu sự tạm dừng và giá có thể tăng trở lại. Nhưng khi cây nến Shooting Star thứ hai xuất hiện với tỷ lệ tương tự và khối lượng giao dịch lớn hơn, đây sẽ là xác nhận cho sự suy yếu thật sự của giá.
-
-### Evening Star
-
-Mô hình nến Evening Star hay nến sao Hôm xuất hiện ở đỉnh xu hướng tăng với 3 nến chính. Trong đó, cây thứ nhất là nến tăng mạnh tiếp nối xu hướng tăng trước đó. Nến thứ hai có thể là nến Doji hoặc Hammer, với phần thân nhỏ hoặc gần như không có. Cuối cùng là một cây nến giảm.
-
-**Ví dụ**:
-
-![Nến Evening Star ở biểu đồ nến cổ phiếu SSI](https://cdn.dnse.com.vn/dnse-news/2022/09/evening-star.png)
-
-_Nến Evening Star ở biểu đồ nến cổ phiếu SSI_
-
-Nến đầu nằm trong xu hướng tăng, bên mua kiểm soát thị trường, giá đang theo đà tăng nhanh. Nến thứ hai thể hiện sự lưỡng lự của nhà đầu tư, là dấu hiệu của sự đảo chiều. Cuối cùng, lực bán gia tăng đã kéo mức giá xuống mạnh mẽ. Cây nến thứ ba có chiều dài càng lớn thì lực đảo chiều càng mạnh. 
 
 ### Tweezer Top
 
