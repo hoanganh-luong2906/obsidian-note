@@ -59,7 +59,7 @@ Cây nến đứng trước thể hiện sự kiểm soát của bên bán theo 
 ![[Pasted image 20260902103549.png]]
 ![[Pasted image 20260902150924.png]]
 #### A.  Hammer
-![[2026-09-02_10-33-07.png|700]]
+![[Pasted image 2026-09-02_10-33-07.png|700]]
 
 Mô hình nến Hammer có hình dạng như **một cây búa với thân nến nhỏ. Bóng nến dưới rất dài**, thường gấp từ 2 đến 3 lần thân nến và bóng nến trên hầu như không có. 
 
