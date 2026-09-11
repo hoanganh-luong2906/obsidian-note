@@ -1,0 +1,13 @@
+- Nâng hạng là tín hiệu tích cực cho thị trường trong trung/dài hạn
+- Các yếu tố quan tâm thị trường:
+	- Vĩ mô
+	- Chính sách
+	- Dòng tiền
+	- Kỹ thuật
+- Thanh khoản cao -> dấu hiệu bán tháo
+- Nhớ đừng đi theo thị trường -> đi theo -> chết chùm
+- Thị trường đang rung lắc cản
+- Nếu lực bán xuất hiện sau khi thị trường đã rung lắc một vài phiên -> thường sẽ là lực bán nhỏ lẻ (đặc trưng là phản ứng chậm với thị trường)
+- Khi quan sát thị trường:
+	- Quan sát khối lượng -> nếu volume bán cao -> bán tháo 
+- Một cổ phiếu tăng + điều chỉnh quá đẹp (bán ít) -> dễ đảo chiều
