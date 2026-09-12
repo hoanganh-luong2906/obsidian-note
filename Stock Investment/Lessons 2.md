@@ -1,0 +1,27 @@
+- Nâng hạng là tín hiệu tích cực cho thị trường trong trung/dài hạn
+- Các yếu tố quan tâm thị trường:
+	- Vĩ mô
+	- Chính sách
+	- Dòng tiền
+	- Kỹ thuật
+- Thanh khoản cao -> dấu hiệu bán tháo
+- Nhớ đừng đi theo thị trường -> đi theo -> chết chùm
+- Thị trường đang rung lắc cản
+- Nếu lực bán xuất hiện sau khi thị trường đã rung lắc một vài phiên -> thường sẽ là lực bán nhỏ lẻ (đặc trưng là phản ứng chậm với thị trường)
+- Khi quan sát thị trường:
+	- Quan sát khối lượng -> nếu volume bán cao -> bán tháo 
+- Một cổ phiếu tăng + điều chỉnh quá đẹp (bán ít) -> dễ đảo chiều
+- Nếu một cổ phiếu còn đang chịu áp lực từ những phiên bán nhỏ lẻ -> nên chờ đợi/quan sát thêm trước khi đưa ra quyết định vào (case này PNJ chính là bài học, vì PNJ mình đã FOMO và mua ở mức giá cao trong khi nếu như cẩn thận hơn thì mình đã có thể tiết kiệm được 5-10%, học cách quan sát khối lượng trước khi quyết định)
+- Phân tích kỹ thuật nên quan sát càng nhiều yếu tố càng tốt, vì nếu thiếu đi một vài yếu tố quan trọng có thể ảnh hưởng trực tiếp tới lợi nhuận của mình.
+	- Phân tích biểu đồ nến, trending line có thể cho mình biết xu hướng ngắn hạn của biểu đồ, tuy nhiên chừng đó vẫn chưa đủ cơ sở để mình tìm điểm mua vào hợp lý
+	- Phân tích dòng tiền có thể giúp mình hiểu được tốt hơn bối cảnh, tâm lý của thị trường hiện tại đối với những cổ phiếu mà mình đang cân nhắc
+	- Phân tích các yếu tố vĩ mô để mình hiểu hơn về dòng tiền, xu hướng chung của các nhóm ngành (cũng giống phân tích giòng tiền nhưng ở một góc nhìn bao quát, chung chung hơn)
+- Các mã không giảm khi thị trường rũ hàng mạnh -> ưu tiên theo dõi (cổ phiếu mạnh, đầu ngành)
+- Khi một cổ phiếu đang giảm
+	- Bỗng dưng ngưng giảm trong 2-3 phiên
+	- Vol bán thấp
+	=> Sắp chạm đáy, vào vùng có thể mua được
+- Mua nhóm Dầu khí thì phải đợi nó giảm thủng đáy -> nó mới tăng lại
+	- Tạo nền -> chưa đủ thấp
+- Tin tốt -> không tăng -> xấu
+- Tin xất -> không giảm -> tốt
