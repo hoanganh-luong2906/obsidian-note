@@ -51,12 +51,12 @@ Ghi chú học tập cá nhân, không phải khuyến nghị đầu tư. Mã c�
 
 [[10.1 · Chu kỳ kinh tế & luân chuyển ngành — chuyên sâu]]
 
-[[10.2 · Buổi 1 — Xác định target cổ phiếu & nhận diện chân sóng]]
+[[10.2 · Xác định target cổ phiếu & nhận diện chân sóng]]
 
-[[10.3 · Buổi 2 — Phát hiện sớm siêu cổ phiếu trong uptrend]]
+[[10.3 · Phát hiện sớm siêu cổ phiếu trong uptrend]]
 
-[[10.4 · Buổi 3 — Bùng nổ theo đà- 7 cấu trúc tạo đáy lớn]]
+[[10.4 · Bùng nổ theo đà- 7 cấu trúc tạo đáy lớn]]
 
-[[10.5 · Buổi 4 — Định luật mua siêu hạng (chuyên sâu)]]
+[[10.5 · Định luật mua siêu hạng (chuyên sâu)]]
 
-[[10.6 · Buổi 5 — Kỹ thuật nước rút & thời điểm bán]]
+[[10.6 · Kỹ thuật nước rút & thời điểm bán]]
