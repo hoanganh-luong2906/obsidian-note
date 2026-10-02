@@ -118,4 +118,4 @@ Ghi chú học tập cá nhân, không phải khuyến nghị đầu tư.
 
 [[09 · Case study, thuật ngữ & lộ trình học]]
 
-[[10 · Lesson 5 — Chu kỳ kinh tế & săn siêu cổ phiếu/README]]
+[[Stock Investment/Chứng khoán Việt Nam — Hệ thống kiến thức/10 · Lesson 5 — Chu kỳ kinh tế & săn siêu cổ phiếu/README]]
