@@ -1,9 +1,12 @@
 # <span style="color: red">Dầu khí</span>
 ## 1. *BSR*
+![[Pasted image 20261005194650.png|580]]
 
 ## 2. *PVT*
 
 ## 3. *PET*
+![[Pasted image 20261005194819.png]]
+Target: tích luỹ vài tuần để đi lên (mẫu hình )
 
 # <span style="color: blue">Ngân hàng</span>
 
