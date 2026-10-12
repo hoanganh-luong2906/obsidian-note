@@ -7,7 +7,7 @@ score: 0/28
 red_flags: 0
 tags: [checklist, diem-mua]
 ---
-
+https://claude.ai/artifact/7VNxHkXZBnZyyXUdvTUEHa?sk=Shl9qcSle_XE6j2e1Rgdtw
 # Phiếu kiểm tra điểm mua: (chưa nhập mã)
 
 **Mã cổ phiếu:** (chưa nhập mã)  
