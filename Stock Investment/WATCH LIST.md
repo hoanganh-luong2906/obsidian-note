@@ -26,7 +26,7 @@
 ---
 # <span style="color: blue">Ngân hàng</span>
 
-## 1.  MSB
+## 1.  *MSB*
 - Updated (17/10):
 	- Đang tiếp tục tích luỹ ở nền tiếp theo **14.5-14.9**
 
@@ -50,6 +50,11 @@
 	- Vửa rơi khỏi xu hướng
 	- Khả năng phải bán, đợi test lại cản **46.4**
 
+## 3. *GMD*
+- Updated (17/10):
+	- Đang tăng, target test cản **55**
+	- Đợi tín hiệu xác nhận (thủng hỗ trợ, nổ vol)
+
 ## 4. *DHC* (500 - 36.9)
 - Updated (17/10): 
 	- Đang tiếp tục test trên hỗ trợ 36.4
@@ -59,8 +64,8 @@
 
 # Chứng khoán
 
-## 1. SSI
+## 1. *SSI*
 
-## 2. VND
+## 2. *VND*
 
-## 3. VCI
+## 3. *VCI*
