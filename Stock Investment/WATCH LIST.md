@@ -42,8 +42,9 @@
 - Updated (17/10):
 	- Hiện tại đang chờ tích luỹ trên nền cao **49-53**
 	- Chờ breakout ra khỏi 53 + vol lớn -> mua vào 500
-	- Dừng lỗ khi rơi khỏi nền 49
+	- Dừng lỗ khi rơi khỏi nền **49**
 	- Cờ đuôi nheo hoặc 3WT
+	- <span style="color:red">Vi phạm: break down khỏi nền 49.23</span>
 
 ## 2. *DGW* (500 - 46)
 - Updated (17/10):
