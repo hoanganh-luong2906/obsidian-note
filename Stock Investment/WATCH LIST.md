@@ -32,8 +32,9 @@
 
 ## 2. *HDB*
 - Updated (17/10):
-	- Đang có 1 nhịp nghỉ sau khi breakout
+	- Đang có 1 nhịp nghỉ sau khi breakout (test lại cản 22.8)
 	- Khả năng sang tuần sẽ còn 1 nhịp tăng nữa
+	- Tín hiệu vào: nếu không bị bán tháo vào tuần sau thì khả năng vào tiếp được
 
 ---
 # <span style="color: green">Bán lẻ</span>
