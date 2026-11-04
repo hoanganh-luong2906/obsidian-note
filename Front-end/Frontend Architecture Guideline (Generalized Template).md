@@ -15,22 +15,22 @@ itself is organized and written**, not product/domain rules.
 
 ## 1. Tech stack at a glance
 
-| Concern | Choice | Notes |
-|---|---|---|
-| Framework | **Next.js 16.2** (App Router) | Has breaking changes vs. training-data Next.js. Read `node_modules/next/dist/docs/01-app` before touching routing/layout code — see `frontend/AGENTS.md`. |
-| UI runtime | **React 19.2** | |
-| Styling | **Tailwind CSS v4** | CSS-first config — no `tailwind.config.ts`. All tokens live in `app/globals.css`. |
-| Components | **shadcn/ui**, style `new-york` | Copy-in Radix primitives in `src/components/ui/`. Config: `components.json`. Icons: `lucide-react`. |
-| Server state | **TanStack Query v5** (`@tanstack/react-query`) | Configured in `app/providers.tsx`. |
-| HTTP client | **openapi-fetch** | Fully typed from `src/generated-schema.ts`. |
-| Auth | **MSAL** (`@azure/msal-browser`, `@azure/msal-react`) | Azure AD / Entra ID. |
-| Dates | **dayjs** (+ `relativeTime` plugin) | |
-| Charts | **recharts** | |
-| Validation | **zod** | Form schemas (e.g. add/update competitor). |
-| Class merging | **clsx** + **tailwind-merge** via `cn()` | `src/lib/utils.ts` |
-| Unit/component tests | **Jest** (`next/jest`) + **React Testing Library** | |
-| E2E + visual | **Playwright** | |
-| Package manager | **pnpm** (`pnpm@11.13.0` pinned in `package.json`) | Never use npm/yarn — `pnpm-lock.yaml` is committed. |
+| Concern              | Choice                                                | Notes                                                                                                                                                     |
+| -------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Framework            | **Next.js 16.2** (App Router)                         | Has breaking changes vs. training-data Next.js. Read `node_modules/next/dist/docs/01-app` before touching routing/layout code — see `frontend/AGENTS.md`. |
+| UI runtime           | **React 19.2**                                        |                                                                                                                                                           |
+| Styling              | **Tailwind CSS v4**                                   | CSS-first config — no `tailwind.config.ts`. All tokens live in `app/globals.css`.                                                                         |
+| Components           | **shadcn/ui**, style `new-york`                       | Copy-in Radix primitives in `src/components/ui/`. Config: `components.json`. Icons: `lucide-react`.                                                       |
+| Server state         | **TanStack Query v5** (`@tanstack/react-query`)       | Configured in `app/providers.tsx`.                                                                                                                        |
+| HTTP client          | **openapi-fetch**                                     | Fully typed from `src/generated-schema.ts`.                                                                                                               |
+| Auth                 | **MSAL** (`@azure/msal-browser`, `@azure/msal-react`) | Azure AD / Entra ID.                                                                                                                                      |
+| Dates                | **dayjs** (+ `relativeTime` plugin)                   |                                                                                                                                                           |
+| Charts               | **recharts**                                          |                                                                                                                                                           |
+| Validation           | **zod**                                               | Form schemas (e.g. add/update competitor).                                                                                                                |
+| Class merging        | **clsx** + **tailwind-merge** via `cn()`              | `src/lib/utils.ts`                                                                                                                                        |
+| Unit/component tests | **Jest** (`next/jest`) + **React Testing Library**    |                                                                                                                                                           |
+| E2E + visual         | **Playwright**                                        |                                                                                                                                                           |
+| Package manager      | **pnpm** (`pnpm@11.13.0` pinned in `package.json`)    | Never use npm/yarn — `pnpm-lock.yaml` is committed.                                                                                                       |
 
 ---
 

@@ -16,18 +16,18 @@
 
 ---
 # <span style="color: red">Dầu khí</span>
-## 1. *BSR*
+## 1. *BSR* (1500 - 28)
 - Updated (10/10):
 	- Đợi một nhịp dũ mạnh nữa thì mới có khả năng test cản lần 2
 - Updated (17/10):
 	- Đã thủng đáy, đợi về lại 30 để mua vào (trading ở vùng 29-30)
 	- Hiện đã mua vào ở giá 28.6
 
-## 2. *GAS* (1000 - 78.89)
+## 2. *GAS* (1,500 - 78.89)
 - Updated (26/10):
 	- Mua vào: 1000 - 78.89
 	- Target: 90-100 (15-20%)
-	- Cắt lỗ: 75
+	- Cắt lỗ: 71
 
 ---
 # <span style="color: blue">Ngân hàng</span>
@@ -35,7 +35,9 @@
 ## 1.  *MSB*
 - Updated (17/10):
 	- Đang tiếp tục tích luỹ ở nền tiếp theo **14.5-14.9**
-
+- Updated (04/11):
+	- Vẫn tiếp tục tăng, đợi giũ mới vào được
+	- 
 ## 2. *HDB*
 - Updated (17/10):
 	- Đang có 1 nhịp nghỉ sau khi breakout (test lại cản 22.8)
@@ -45,7 +47,42 @@
 ---
 # <span style="color: green">Bán lẻ</span>
 
-## 1. *PET* (300 - 56.6)
+## 4. *DHC* (500 - 36.9)
+- *Updated (17/10):* 
+	- Đang tiếp tục test trên hỗ trợ 36.4
+	- Đợi phiên nổ vol để xác nhận xu hướng
+- *Updated (22/10):*
+	- MACD đang có xu hướng phân kỳ lại
+	- Quan sát cẩn thận đảo chiều xu hướng (MACD phân kỳ)
+- *Updated (27/10):*
+	- Vẫn là một cây nến rút chân, tuy nhiên lực bán không mạnh
+	- Vẫn duy trì quan sát, chưa cần hành động.
+## 5. *MWG*
+- Updated (04/11):
+	- https://answer.fireant.vn/share/d7c6ad76-4746-4eec-b71e-e2fba91bde32
+	- https://answer.fireant.vn/thread/af62ef57-bba6-46f2-b5df-428bca7345a0
+	- 
+
+---
+
+# Chứng khoán
+
+## 1. *SSI*
+
+## 2. *VND*
+
+## 3. *VCI*
+
+---
+
+# Hàng không
+
+## 1. *VJC*
+
+---
+# DROPPED
+
+## 1. *PET* (FAILED)
 - *Updated (17/10):*
 	- Hiện tại đang chờ tích luỹ trên nền cao **49-53**
 	- Chờ breakout ra khỏi 53 + vol lớn -> mua vào 500
@@ -63,7 +100,7 @@
 	- Test lại cản, không có lực bán lớn
 	- Tiếp tục quan sát
 
-## 2. *DGW*
+## 2. *DGW* (FAILED)
 - *Updated (17/10):*
 	- Vửa rơi khỏi xu hướng
 	- Khả năng phải bán, đợi test lại cản **46.4**
@@ -73,7 +110,7 @@
 	- Vẫn đang test lại cản, lực cầu vào không mạnh, tuy nhiên cũng không có tình trạng bán tháo 
 	- Tiếp tục quan sát
 
-## 3. *GMD*
+## 3. *GMD* (FAILED)
 - *Updated (17/10):*
 	- Đang tăng, target test cản **55**
 	- Đợi tín hiệu xác nhận (thủng hỗ trợ, nổ vol)
@@ -84,23 +121,4 @@
 	- Rớt xuống test lại vùng breakout
 	- Không FOMO = ĐÚNG
 	- Đây là cổ phiếu khó dự đoán hành vi. Không nên tham gia
-## 4. *DHC* (500 - 36.9)
-- *Updated (17/10):* 
-	- Đang tiếp tục test trên hỗ trợ 36.4
-	- Đợi phiên nổ vol để xác nhận xu hướng
-- *Updated (22/10):*
-	- MACD đang có xu hướng phân kỳ lại
-	- Quan sát cẩn thận đảo chiều xu hướng (MACD phân kỳ)
-- *Updated (27/10):*
-	- Vẫn là một cây nến rút chân, tuy nhiên lực bán không mạnh
-	- Vẫn duy trì quan sát, chưa cần hành động.
 
----
-
-# Chứng khoán
-
-## 1. *SSI*
-
-## 2. *VND*
-
-## 3. *VCI*
